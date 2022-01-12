@@ -160,8 +160,7 @@
 	height: 999px;
 }
 .bbb{
-	align-items: auto;
-	width: 50px;
-	height: 30px;
+
 	word-wrap: inherit;
+	align-items: baseline;
 }
